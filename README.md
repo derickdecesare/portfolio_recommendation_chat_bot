@@ -46,6 +46,6 @@ This chat-bot integrates with the lambda function to return a portfolio recomend
 
 This chat-bot should have the following functionality.
 
-![final_gif](Media/gif_lambda_connected.gif)
+![final_gif](Media/gif_lamda_connected.gif)
 
 
